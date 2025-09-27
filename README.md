@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # 🏡 Imobiliária Prime - Plataforma Web
 
 ## 📝 Visão Geral do Projeto
@@ -113,6 +115,7 @@ A identidade visual segue uma paleta de cores modernas e confiáveis:
 * [ ] Configurar projeto Angular e JSON Server.
 * [ ] Criar **AuthService** e **ImoveisService**.
 
+>>>>>>> 3bc35358ba9ba901dd95394f1e297b249b4cc8a8
 *Diagrama de Fluxo*
 ```mermaid
 graph TD
@@ -245,6 +248,9 @@ classDiagram
     FuncionalidadesCliente ..> Publico : <<inclui>>
     FuncionalidadesCorretor ..> Publico : <<inclui>>
 ```
+<<<<<<< HEAD
+=======
 
 * [ ] Implementar **AuthGuard** e **CorretorGuard**.
 * [ ] Implementar **CRUD completo** no Dashboard do Corretor.
+>>>>>>> 3bc35358ba9ba901dd95394f1e297b249b4cc8a8
